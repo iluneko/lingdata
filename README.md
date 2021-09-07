@@ -11,6 +11,6 @@
   * и здесь тоже продолжение! правда, круто?
 
 ### подзаголовок третьего уровня.
-'''python
+```python
 s = "Python syntax highlighting"
 print s
